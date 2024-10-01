@@ -1,9 +1,9 @@
 # NAME: Jetbrains
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-29 13:35:26
-# DOMAIN-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2024-09-16 02:13:36
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 payload:
   - DOMAIN-SUFFIX,datalore.io
   - DOMAIN-SUFFIX,grazie.ai
@@ -11,7 +11,10 @@ payload:
   - DOMAIN-SUFFIX,intellij.net
   - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.io
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
+  - DOMAIN-SUFFIX,kotlinconf.com
   - DOMAIN-SUFFIX,kotlinlang.org

@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2024-05-31 02:12:38
+最后更新时间：2024-10-01 02:13:39
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 449  | 
+| DOMAIN | 425  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 77262  | 
+| DOMAIN-SUFFIX | 92242  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8115  | 
-| IP-CIDR6 | 3713  | 
+| IP-CIDR | 8053  | 
+| IP-CIDR6 | 11397  | 
 | PROCESS-NAME | 12  | 
 | USER-AGENT | 65  | 
-| TOTAL | 89630  | 
+| TOTAL | 112208  | 
 
 
 ## Surge 
@@ -177,14 +177,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/ByteDance/ByteDance.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
 - https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list
@@ -207,7 +204,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/iQIYI.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Douyu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DouYu.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Podcast/Himalaya.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Ximalaya.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/XiMaLaYa.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
@@ -382,20 +378,16 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/iFlytek.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ifanr.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CMB.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingCN.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BaiShanYunKeJi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DiLianWangLuo.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WeiZhiYunDong.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/8btc.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/iQIYI.list
 - https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ChengTongWangPan.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DuoWan.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WanKaHuanJu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ZhiYinManKe.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/bilibili.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/WeChat.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ShiJiChaoXing.list
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet6.txt
@@ -465,13 +457,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/alibaba.conf
-- https://ruleset.isagood.day/alibaba_domain.conf
-- https://ruleset.isagood.day/bilibili.conf
-- https://ruleset.isagood.day/icbc.conf
-- https://ruleset.isagood.day/sina.conf
-- https://ruleset.isagood.day/stream_cn.conf
-- https://ruleset.isagood.day/wechat.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

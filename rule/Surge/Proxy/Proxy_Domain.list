@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-05-30 02:10:40
-# DOMAIN: 15
-# DOMAIN-KEYWORD: 29
-# DOMAIN-SUFFIX: 5899
+# UPDATED: 2024-09-04 02:12:11
+# DOMAIN: 12
+# DOMAIN-KEYWORD: 28
+# DOMAIN-SUFFIX: 5919
 # IP-CIDR: 96
 # IP-CIDR6: 4
 # USER-AGENT: 9
-# TOTAL: 6052
+# TOTAL: 6068
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -142,6 +142,7 @@
 .9news.com.au
 .9to5mac.com
 .a-normal-day.com
+.a5.com.ru
 .aamacau.com
 .abc.com
 .abc.net.au
@@ -346,6 +347,7 @@
 .apkmonk.com
 .apkplz.com
 .apkpure.com
+.apkpure.net
 .aplusvpn.com
 .app-measurement.net
 .appdownloader.net
@@ -437,6 +439,7 @@
 .axureformac.com
 .azerbaycan.tv
 .azerimix.com
+.azirevpn.com
 .azubu.tv
 .azure.com
 .azureedge.net
@@ -626,6 +629,7 @@
 .blubrry.com
 .blueangellive.com
 .bmfinn.com
+.bnbstatic.com
 .bnews.co
 .bnext.com.tw
 .bnn.co
@@ -825,6 +829,7 @@
 .cdp1989.org
 .cdp1998.org
 .cdp2006.org
+.cdpa.url.tw
 .cdpeu.org
 .cdpusa.org
 .cdpweb.org
@@ -855,6 +860,7 @@
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
+.chat.openai.com
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
@@ -866,7 +872,9 @@
 .cherrysave.com
 .chhongbi.org
 .chicagoncmtv.com
+.china-mmm.jp.net
 .china-mmm.net
+.china-mmm.sa.com
 .china-review.com.ua
 .china-week.com
 .china101.com
@@ -1006,6 +1014,7 @@
 .clyp.it
 .cmail19.com
 .cmcn.org
+.cmegroup.com
 .cmi.org.tw
 .cmoinc.org
 .cms.gov
@@ -1014,7 +1023,6 @@
 .cmule.org
 .cmx.im
 .cn-proxy.com
-.cn.com
 .cn6.eu
 .cna.com.tw
 .cnabc.com
@@ -1049,7 +1057,6 @@
 .coinut.com
 .collateralmurder.com
 .collateralmurder.org
-.com.ru
 .com.uk
 .comedycentral.com
 .comefromchina.com
@@ -1063,6 +1070,7 @@
 .comodoca.com
 .comparitech.com
 .compileheart.com
+.compose-spec.io
 .compress.to
 .compython.net
 .conoha.jp
@@ -1226,6 +1234,7 @@
 .democrats.org
 .demosisto.hk
 .depositphotos.com
+.derekhsu.homeip.net
 .desc.se
 .desipro.de
 .deskconnect.com
@@ -1236,6 +1245,7 @@
 .deviantart.net
 .devio.us
 .devpn.com
+.devv.ai
 .dfas.mil
 .dfn.org
 .dharamsalanet.com
@@ -1297,6 +1307,8 @@
 .dnsrd.com
 .dnssec.net
 .docker.com
+.docker.io
+.dockerhub.com
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
@@ -2294,7 +2306,6 @@
 .holyspiritspeaks.org
 .home.sina.com
 .homedepot.com
-.homeip.net
 .homeperversion.com
 .homeservershow.com
 .honeynet.org
@@ -2474,6 +2485,7 @@
 .imageab.com
 .imagefap.com
 .imageflea.com
+.imageglass.org
 .images-gaytube.com
 .imageshack.us
 .imagevenue.com
@@ -2604,7 +2616,9 @@
 .iuksky.com
 .ivacy.com
 .iverycd.com
+.ivonblog.com
 .ivpn.net
+.iwara.tv
 .ixquick.com
 .ixxx.com
 .iyouport.com
@@ -2619,6 +2633,7 @@
 .jamaat.org
 .jamestown.org
 .jamyangnorbu.com
+.jan.ai
 .jandyx.com
 .janwongphoto.com
 .japan-whores.com
@@ -2694,7 +2709,6 @@
 .journalofdemocracy.org
 .joymiihub.com
 .jp.hao123.com
-.jp.net
 .jpopforum.net
 .jqueryui.com
 .js.revsci.net
@@ -2891,6 +2905,7 @@
 .lianyue.net
 .liaowangxizang.net
 .liberal.org.hk
+.libertysculpturepark.com
 .libertytimes.com.tw
 .libraryinformationtechnology.com
 .libredd.it
@@ -2941,7 +2956,6 @@
 .livefilestore.com
 .liveleak.com
 .livemint.com
-.livestation.com
 .livestream.com
 .livevideo.com
 .livingonline.us
@@ -2951,7 +2965,7 @@
 .lizhizhuangbi.com
 .lkcn.net
 .llnwd.net
-.llss.me
+.lmsys.org
 .lncn.org
 .load.to
 .lobsangwangyal.com
@@ -3793,6 +3807,7 @@
 .perfect-privacy.com
 .perfectgirls.net
 .periscope.tv
+.perplexity.ai
 .persecutionblog.com
 .persiankitty.com
 .phapluan.org
@@ -3841,6 +3856,7 @@
 .piposay.com
 .piraattilahti.org
 .piring.com
+.pixeldrain.com
 .pixelmator.com
 .pixelqi.com
 .pixiv.net
@@ -3989,6 +4005,7 @@
 .pythonic.life
 .pytorch.org
 .qanote.com
+.qbittorrent.org
 .qgirl.com.tw
 .qhigh.com
 .qi-gong.me
@@ -4026,9 +4043,9 @@
 .qz.com
 .r0.ru
 .r18.com
-.ra.gg
 .radicalparty.org
 .radiko.jp
+.radio-canada.ca
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
@@ -4186,7 +4203,6 @@
 .s1s1s1.com
 .s4miniarchive.com
 .s8forum.com
-.sa.com
 .sa.hao123.com
 .saboom.com
 .sacks.com
@@ -4567,6 +4583,7 @@
 .stoptibetcrisis.net
 .storagenewsletter.com
 .storify.com
+.storj.io
 .storm.mg
 .stormmediagroup.com
 .stoweboyd.com
@@ -4654,6 +4671,7 @@
 .taipei.gov.tw
 .taipeisociety.org
 .taipeitimes.com
+.taisounds.com
 .taiwan-sex.com
 .taiwanbible.com
 .taiwancon.com
@@ -4904,6 +4922,7 @@
 .tibetswiss.ch
 .tibettelegraph.com
 .tibettimes.net
+.tibettruth.com
 .tibetwrites.org
 .ticket.com.tw
 .tigervpn.com
@@ -5238,13 +5257,12 @@
 .urbansurvival.com
 .urchin.com
 .url.com.tw
-.url.tw
 .urlborg.com
 .urlparser.com
 .us.to
 .usacn.com
 .usaip.eu
-.usc.edu
+.uscardforum.com
 .uscnpm.org
 .usembassy.gov
 .userapi.nytlog.com
@@ -5622,6 +5640,7 @@
 .wr.pvp.net
 .wrchina.org
 .wretch.cc
+.writesonic.com
 .wsj.com
 .wsj.net
 .wsjhk.com
@@ -5645,6 +5664,7 @@
 .x-berry.com
 .x-wall.org
 .x.co
+.x.com
 .x.company
 .x1949x.com
 .x24hr.com
@@ -5783,7 +5803,6 @@
 .yingsuoss.com
 .yinlei.org
 .yipub.com
-.yiyechat.com
 .yizhihongxing.com
 .yobit.net
 .yobt.com
@@ -5824,13 +5843,13 @@
 .yuanzhengtang.org
 .yulghun.com
 .yunchao.net
-.yuntipub.com
 .yuvutu.com
 .yvesgeleyn.com
 .ywpw.com
 .yx51.net
 .yyii.org
 .yyjlymb.xyz
+.yysub.net
 .yzzk.com
 .z-lib.org
 .zacebook.com
@@ -5847,6 +5866,7 @@
 .zello.com
 .zengjinyan.org
 .zenmate.com
+.zenmate.com.ru
 .zerohedge.com
 .zeronet.io
 .zeutch.com
@@ -5911,15 +5931,12 @@
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
-chat.openai.com.cdn.cloudflare.net
 cloud.oracle.com
 copilot.microsoft.com
 cvws.icloud-content.com
 developer.apple.com
 location.microsoft.com
 login.microsoftonline.com
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-openaicomproductionae4b.blob.core.windows.net
 self.events.data.microsoft.com
 testflight.apple.com
 voice.telephony.goog

@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-05-30 02:10:50
+# UPDATED: 2024-07-04 02:10:48
 # HOST: 15
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 3675
@@ -614,7 +614,6 @@ HOST-SUFFIX,bocim.com,China
 HOST-SUFFIX,bohejiasuqi.com,China
 HOST-SUFFIX,bojianger.com,China
 HOST-SUFFIX,bokecc.com,China
-HOST-SUFFIX,booking.com,China
 HOST-SUFFIX,boosj.com,China
 HOST-SUFFIX,bootcdn.net,China
 HOST-SUFFIX,bootcss.com,China
@@ -1160,6 +1159,7 @@ HOST-SUFFIX,discuz.org,China
 HOST-SUFFIX,diyiyou.com,China
 HOST-SUFFIX,dj99.com,China
 HOST-SUFFIX,dl-vip.pcfaster.baidu.co.th,China
+HOST-SUFFIX,dler.cloud,China
 HOST-SUFFIX,dlgslb.net,China
 HOST-SUFFIX,dlnel.com,China
 HOST-SUFFIX,dlnel.org,China

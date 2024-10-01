@@ -1,10 +1,10 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-29 13:34:27
-# DOMAIN: 28
+# UPDATED: 2024-08-28 02:11:49
+# DOMAIN: 27
 # DOMAIN-KEYWORD: 25
-# DOMAIN-SUFFIX: 1255
+# DOMAIN-SUFFIX: 1256
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
@@ -15,7 +15,6 @@ payload:
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
-  - DOMAIN,cache.video.iqiyi.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,cs428.wpc.edgecastcdn.net
   - DOMAIN,dashasiafox.akamaized.netflix
@@ -658,6 +657,7 @@ payload:
   - DOMAIN-SUFFIX,italkbbtv.com
   - DOMAIN-SUFFIX,itv.com
   - DOMAIN-SUFFIX,itvstatic.com
+  - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN-SUFFIX,japonx.com
   - DOMAIN-SUFFIX,japonx.net
   - DOMAIN-SUFFIX,japonx.tv

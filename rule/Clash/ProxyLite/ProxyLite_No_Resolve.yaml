@@ -1,13 +1,13 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-05-30 02:11:30
-# DOMAIN: 29
+# UPDATED: 2024-09-29 02:12:26
+# DOMAIN: 25
 # DOMAIN-KEYWORD: 22
-# DOMAIN-SUFFIX: 841
+# DOMAIN-SUFFIX: 847
 # IP-CIDR: 89
 # IP-CIDR6: 4
-# TOTAL: 985
+# TOTAL: 987
 payload:
   - DOMAIN,addons.mozilla.org
   - DOMAIN,amp-api.podcasts.apple.com
@@ -22,7 +22,6 @@ payload:
   - DOMAIN,beta.music.apple.com
   - DOMAIN,books.apple.com
   - DOMAIN,cdp.cloud.unity3d.com
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,copilot.microsoft.com
   - DOMAIN,disk.yandex.com
@@ -31,9 +30,6 @@ payload:
   - DOMAIN,login.microsoftonline.com
   - DOMAIN,ocsp.int-x3.letsencrypt.org
   - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,search.yahoo.co.jp
   - DOMAIN,self.events.data.microsoft.com
   - DOMAIN,tv.apple.com
@@ -187,6 +183,7 @@ payload:
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,coinone.co.kr
   - DOMAIN-SUFFIX,comodoca.com
+  - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN-SUFFIX,conoha.jp
   - DOMAIN-SUFFIX,content.office.net
   - DOMAIN-SUFFIX,coursehero.com
@@ -226,6 +223,8 @@ payload:
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dnsimple.com
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,doub.io
   - DOMAIN-SUFFIX,dowjones.com
   - DOMAIN-SUFFIX,dribbble.com
@@ -360,6 +359,7 @@ payload:
   - DOMAIN-SUFFIX,issuu.com
   - DOMAIN-SUFFIX,istockphoto.com
   - DOMAIN-SUFFIX,itgonglun.com
+  - DOMAIN-SUFFIX,iwara.tv
   - DOMAIN-SUFFIX,ixquick.com
   - DOMAIN-SUFFIX,j.mp
   - DOMAIN-SUFFIX,javbus.com
@@ -530,6 +530,7 @@ payload:
   - DOMAIN-SUFFIX,potato.im
   - DOMAIN-SUFFIX,prism-break.org
   - DOMAIN-SUFFIX,privoxy.org
+  - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,proxfree.com
   - DOMAIN-SUFFIX,proxifier.com
   - DOMAIN-SUFFIX,pscp.tv
@@ -836,6 +837,7 @@ payload:
   - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,wwitv.com
   - DOMAIN-SUFFIX,x.co
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,xanga.com
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,xda-developers.com
